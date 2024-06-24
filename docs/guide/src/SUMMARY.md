@@ -33,3 +33,6 @@
   - [RPC access](./dev/rpc.md)
   - [Testing IBC](./dev/ibc.md)
 - [Resources](./resources.md)
+- [Tutorials](./tutorials.md)
+  - [Running a fullnode](./tutorials/running-node.md)
+  - [Running a frontend](./tutorials/running-frontend.md)
